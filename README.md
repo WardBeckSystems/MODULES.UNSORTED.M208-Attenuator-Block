@@ -1,6 +1,6 @@
 # M208 Attenuator Block · Unsorted
 
-Ward-Beck Systems M208, 1984|17. Wiki page: [M208 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M208.html)
+Ward-Beck Systems M208, 1984|17. Wiki page: [M208 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M208-Attenuator-Block/)
 
 | Folder | What is in it | Files |
 |---|---|---|
